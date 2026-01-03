@@ -1,0 +1,1 @@
+export default function Home() { return <div><h1>Welcome to my-pro-react-app</h1></div>; }
